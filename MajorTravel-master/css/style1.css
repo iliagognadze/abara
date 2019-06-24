@@ -1,0 +1,145 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+
+.container{
+
+}
+
+.top-header{
+	background-color: white;
+}
+
+.nav-item{
+	font-size: 22px;
+	font-weight: bold;
+	color: #124ea2;
+	margin: 0px 5px;
+}
+
+p {
+	margin: 0;
+}
+
+.questrial{
+	font-family: 'Questrial', sans-serif;
+}
+
+.booking{
+	margin: 0px 25px;
+}
+
+.booking p{
+	margin-left: 3px;
+	color: black;
+}
+
+.login p{
+	font-weight: 600;
+	color: #124ea2;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.nav-link{
+	padding: 0px 5px !important;
+	color: white;
+	margin: 0px 10px;
+}
+
+.navbar-toggler-icon img{
+	width: 100%;
+}
+
+/*.first-link{
+	padding-left: 0px !important;
+	color: white;
+}*/
+
+.real-nav li{
+	margin: 0;
+}
+
+.real-nav-fluid{
+	background-color: #124ea2;
+}
+
+.real-nav a, .real-nav a:hover{
+	font-weight: normal;
+	color: white;
+	font-size: 18px;
+}
+
+
+.form-ul{
+	padding: 0;
+}
+
+input[type="text"] {
+	/*padding-left: 40px;*/
+	background-color: white;
+}
+
+.inside-placeholder{
+	position: absolute;
+	transform: translate(15px, 10px);
+}
+
+.input-group-text{
+	background-color: white;
+}
+
+.forms{
+	background-color: white;
+	padding: 25px 30px;
+	padding-bottom: 50px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 10px rgba(0, 0, 0, 0.05);
+	position: relative;
+	top: -70px;
+}
+
+.input-title{
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+.column-line{
+	margin-bottom: 40px;
+}
+
+.flights{
+
+}
+
+.left-first{
+	padding-left: 0;
+}
+
+.right-last{
+	padding-right: 0;
+}
+
+.check-title{
+	margin: 0;
+	margin-left: 13px;
+	font-weight: 600;
+}
+
+#checkZone2{
+	margin-left: 30px;
+}
+
+.button{
+}
+
+.flight-btn, .flight-btn:hover{
+	color: white;
+	text-decoration: none;
+	padding: 15px 40px;
+	background-color: #124ea2;
+	border-radius: 35px;
+}

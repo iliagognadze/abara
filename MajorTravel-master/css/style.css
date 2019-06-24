@@ -1,0 +1,407 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+.questrial{
+	font-family: 'Questrial', sans-serif;
+}
+
+.logo{
+	width: 182px;
+}
+
+.top-header{
+	margin-left:345px !important;
+	margin-right: 345px !important;
+	padding: 20px 0px;
+	background-color: #fff;
+}
+
+.owncontainer{
+	margin-left:345px !important;
+	margin-right: 345px !important;
+}
+
+.owncontainer-left{
+	margin-left: 345px;
+}
+
+.owncontainer-right{
+	margin-right: 345px;
+}
+
+.call-icon{
+	widows: 22px;
+	margin: 0px 10px;
+}
+
+.number{
+	font-weight: bold;
+	color: #124ea2;
+	font-size: 20px;
+}
+
+.my-booking{
+	margin: 0;
+	font-size: 15px;
+	color: black;
+}
+
+.booking-link, .booking-link:hover{
+	text-decoration: none;
+	margin: 0px 30px;
+}
+
+.log-in, .log-in:hover{
+	color: #124ea2;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.nav-link{
+	padding: 0px 40px !important;
+	color: #fff !important;
+	font-weight: 600;
+}
+
+.nav-link:first-child{
+	padding-left: 0px !important;
+	padding-right: 40px !important;
+}
+
+.navbar{
+	background-color: #124ea2;
+	padding: 5px 0px !important;
+}
+
+.fa-search{
+	color: #fff !important;
+}
+
+.search-icon img{
+ 	width: 20px !important;
+}
+
+/*.container-fluid img{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}*/
+
+.container-fluid{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.carousel-item {
+	height: 60%;
+}
+
+.fixed{
+	height: 930px;
+	background-color: white;
+	overflow: hidden;
+}
+
+.slide-item{
+	top: -100px;
+	position: relative;
+}
+
+.slide1{
+	top: -165px;
+}
+
+.width-100{
+	width: 100%;
+}
+
+.airlines{
+	position: relative;
+	bottom: 1300px;
+	width: 30rem;
+}
+
+.airlines-article{
+	color: white;
+	font-size: 20px;
+	margin-top: 30px;
+	width: 50%;
+}
+
+.test{
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.stats{
+	position: relative;
+    bottom: 950px;
+    width: 30rem;
+}
+
+.first-header{
+	background-color: white;
+}
+
+.form-ul{
+	padding: 0;
+}
+
+input[type="text"] {
+	/*padding-left: 40px;*/
+	background-color: white;
+}
+
+.inside-placeholder{
+	position: absolute;
+	transform: translate(15px, 10px);
+}
+
+.input-group-text{
+	background-color: white;
+}
+
+.forms{
+	background-color: white;
+	padding: 25px 30px;
+	padding-bottom: 50px;
+	border-radius: 20px;
+	box-shadow: 0 4px 8px 10px rgba(0, 0, 0, 0.05);
+	position: relative;
+	top: -70px;
+}
+
+.input-title{
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+.column-line{
+	margin-bottom: 40px;
+}
+
+.flights{
+
+}
+
+.left-first{
+	padding-left: 0;
+}
+
+.right-last{
+	padding-right: 0;
+}
+
+.check-title{
+	margin: 0;
+	margin-left: 13px;
+	font-weight: 600;
+}
+
+#checkZone2{
+	margin-left: 30px;
+}
+
+.button{
+}
+
+.flight-btn, .flight-btn:hover{
+	color: white;
+	text-decoration: none;
+	padding: 15px 40px;
+	background-color: #124ea2;
+	border-radius: 35px;
+}
+
+.holiday-title{
+	font-size: 33px;
+	color: #124ea2;
+	margin: 25px 0px;
+	margin-bottom: 60px;
+}
+
+.holiday-offers{
+	margin-bottom: 150px;
+}
+
+.redletter{
+	color: #eb008c;
+}
+
+.offer-title{
+	font-size: 16px;
+	font-weight: 600;
+	color: #535353;
+	padding: 15px 0;
+	background-color: white;
+}
+
+.offer-header{
+	padding: 0 15px;
+	background-color: white;
+}
+
+.loc-title{
+	margin: 0 10px;
+}
+
+.location{
+	padding: 15px 0px;
+}
+
+.offer-image{
+	width: 100%;
+}
+
+.description{
+	padding: 15px 15px;
+	background-color: white;
+	padding-bottom: 0px;
+}
+
+.description-title{
+	font-size: 18px;
+	color: #535353;
+	font-weight: bold;
+}
+
+.poppins{
+	font-family: 'Poppins', sans-serif;
+}
+
+.description-article{
+	font-size: 13px;
+	color: #535353;
+	margin: 5px 0px;
+}
+
+.desc-button:last-child{
+	margin: 0px 10px;
+}
+
+.desc-buttons{
+	padding: 15px 0px;
+}
+
+.sale{
+	background-color: white;
+}
+
+.sale-title{
+	color: #eb008c;
+	font-size: 15px;
+	width: 75%;
+	margin-bottom: 0 !important;
+	padding-bottom: 8px;
+}
+
+.offer{
+	/*box-shadow: 0 4px 8px 10px rgba(0, 0, 0, 0.05);*/
+	padding: 0;
+}
+
+.by{
+	font-size: 15px;
+	color: #535353;
+	margin:0;
+	padding: 5px 0;
+}
+
+.author{
+	color: #145ebf;
+	font-size: 15px;
+}
+
+.book{
+	background-color: white;
+}
+
+.offer-footer{
+	padding: 15px 15px;
+	background-color: white;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+.valid p{
+	color: #535353;
+	font-size: 14px;
+	margin-bottom: 0;
+}
+
+footer{
+	background-color: #061c37;
+	padding-top: 45px;
+	padding-bottom: 20px;
+}
+
+.footer{
+	background-color: #061c37;
+}
+
+.destination-title{
+	color: white;
+	font-size: 20px;
+	margin-bottom: 0;
+}
+
+.destinations{
+	color: white;
+	width: 50%;
+	margin-top: 25px;
+	margin-bottom: 40px;
+}
+
+.terms-box ul{
+	padding: 0;
+}
+
+.terms-box li{
+	color: white;
+}
+
+.terms-box img{
+	width: 50px;
+}
+
+.terms-box{
+
+}
+
+@media max-width: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
